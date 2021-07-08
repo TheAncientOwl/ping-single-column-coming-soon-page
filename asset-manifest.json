@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ping-single-column-coming-soon-page/static/css/main.8be9312a.chunk.css",
+    "main.js": "/ping-single-column-coming-soon-page/static/js/main.8b33e441.chunk.js",
+    "main.js.map": "/ping-single-column-coming-soon-page/static/js/main.8b33e441.chunk.js.map",
+    "runtime-main.js": "/ping-single-column-coming-soon-page/static/js/runtime-main.3f513f1d.js",
+    "runtime-main.js.map": "/ping-single-column-coming-soon-page/static/js/runtime-main.3f513f1d.js.map",
+    "static/js/2.d1221967.chunk.js": "/ping-single-column-coming-soon-page/static/js/2.d1221967.chunk.js",
+    "static/js/2.d1221967.chunk.js.map": "/ping-single-column-coming-soon-page/static/js/2.d1221967.chunk.js.map",
+    "index.html": "/ping-single-column-coming-soon-page/index.html",
+    "static/css/main.8be9312a.chunk.css.map": "/ping-single-column-coming-soon-page/static/css/main.8be9312a.chunk.css.map",
+    "static/js/2.d1221967.chunk.js.LICENSE.txt": "/ping-single-column-coming-soon-page/static/js/2.d1221967.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f513f1d.js",
+    "static/js/2.d1221967.chunk.js",
+    "static/css/main.8be9312a.chunk.css",
+    "static/js/main.8b33e441.chunk.js"
+  ]
+}
